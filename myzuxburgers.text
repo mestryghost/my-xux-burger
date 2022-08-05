@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+    <head>
+     <title>my.zux.burgers</title>
+     <style>
+
+        
+          
+        
+            
+
+        
+        div {font-Family:monospace;
+           font_style:normal;
+           text-Weight:400; 
+           font-Size:17px;
+           text-Color:#000000}
+     
+
+        
+       
+      
+
+        .navbar {overflow: hidden ;
+                 background-color: #333;
+                 font-family: Arial;}
+        .navbar a {float: center;
+                       font-size: 16px;
+                       color: rgb(224, 17, 17);
+                       text-align: center;
+                       padding: 0% 0%;
+                       text-decoration: none;}
+                                   
+     </style>
+    </head>
+    <body style="margin: 0px 0px 0px 0px;color: rgb(241, 231, 231);text-decoration-color: #000000;">
+        <div style="text-align: center; font-size: 23px ;background-color: rgb(0, 0,0);">
+        <span style="color: red;">make orders monday to friday before 11 a.m      x</span>
+        
+        </div>
+
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+            
+        <div class="navbar" style="background-color: rgb(32,32,32);">
+            <a><h1 class ="fa fa-fw fa-pull-left">Zux Burgers</h1></a>
+            <a href="#home">home</a>
+            <a href="#our menu">our menu</a>
+            <a href="#recipes">recipes</a>
+            <a href="#contact us">contact us</a>
+            <a href="#"><i class="fa fa-fw fa-shopping-cart"></i> </a>
+             
+        </div>
+ 
+        <div>  
+         <h1 style="font-family:chalk;font-family: chalk-700;font-Color:#000000;font-Size:61px;" >TOP TIER burgers</h1>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+         <p>Mwania <br>mwania</br>Zuki <br>zuki</br></p>
+        </div>
+
+        <img src="burger-entrecote.jpg" alt="" style="width:493.333px;height:395.642px;">
+
+        <div>
+            <h1>our menu</h1>
+        </div>
+        
+        <div>
+            <img src="burger1.png" alt="" style="width: 155.92px;height:115.833px;">
+ 
+            <p>OUR MENU
+                Specials
+                CHILLI BURGER
+                
+                - Whole meal bun
+                - Caramelized onions
+                - Grilled tomatoes
+                - Lettuce
+                - Large chilli flavoured beef patty
+                - Sunny side up fried egg
+            </p>
+            <img src="burger2.png" alt="" style="width:188.038px;height:115.833px;">
+
+            <p>
+                SWEET AND SOUR BURGER
+
+- Whole meal bun
+- Caramelized onions
+- Grilled tomatoes
+- Lettuce
+- Large sweet and sour flavoured beef patty
+- Sunny side up fried egg
+            </p>
+        </div>
+        <div>
+            <img src="burger3.png" alt="" style="width:155.92px ;height:115.833px;">
+            <p>
+                Originals
+BASIC BURGER
+
+- Whole meal bun
+- Caramelized onions
+- Cheese
+- Lettuce
+- Medium sized beef patty</p>
+
+            <img src="burger4.png" alt="" style="width:143.038px ;height:115.833px ;">
+            <p>REGULAR BURGER
+
+- Whole meal bun
+- Caramelized onions
+- Cheese
+- Lettuce
+- Medium sized beef patty
+            </p>
+        </div>
+        <div>
+            <p>Zux Burgers
+                Top tier burgers
+                Mwania
+                mwania
+                Zuki
+                zuki
+                </p>
+        </div>
+        <div>
+            <p>
+                REACH OUT
+Shoot us an email by filling in the form
+Text us at:
++254712076831
+You can reach us via our socials
+Name:
+Email:
+Message:
+
+            </p>
+        </div>
+    </body>
+</html>
