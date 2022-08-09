@@ -83,15 +83,25 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
             
-        <div class="navbar" style="background-color: rgb(32,32,32);">
-            <a><h1 class ="fa fa-fw fa-pull-left">Zux Burgers</h1></a>
-            <a href="#home">home</a>
-            <a href="#our menu">our menu</a>
-            <a href="#recipes">recipes</a>
-            <a href="#contact us">contact us</a>
-            <a href="#"><i class="fa fa-fw fa-shopping-cart"></i> </a>
-             
-        </div>
+       
+        <div class="navbar">
+            <nav class="navbar navbar-inverse">
+                <div class="container-fluid">
+                  <div class="navbar-header">
+                    <a class="navbar-brand" href="#">zux burger</a>
+                  </div>
+                  <ul class="nav navbar-nav">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">our menu</a></li>
+                    <li><a href="#">recipes</a></li>
+                    <li><a href="#">contact us</a></li>
+                  </ul>
+                  <ul class="nav navbar-nav navbar-right">
+                    <a href="#"><i class="fa fa-fw fa-shopping-cart"></i> </a>
+                  </ul>
+                </div>
+              </nav>
+           </div>
  
         <div>  
          <h1 style="font-family:chalk;font-family: chalk-700;font-Color:#000000;font-Size:61px;" >TOP TIER burgers</h1>
